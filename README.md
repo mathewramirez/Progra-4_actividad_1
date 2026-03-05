@@ -2,8 +2,8 @@
 
 Proyecto: Actividad previa al Quiz 1 – Progra-4  
 Perfil Elegido: Data Analyst  
-Demo en vivo: https://mathewramirez.github.io/Progra-4_actividad_1/  
-Prototipo Figma: https://www.figma.com/make/9YGFY78KuFcoeJoKFLPGKB/Personal-Portfolio-Website?t=BvOikHdYx5rsbEbK-1
+Demo en vivo: [https://mathewramirez.github.io/Progra-4_actividad_1/](https://mathewramirez.github.io/Progra-4_actividad_1/)  
+Prototipo Figma: [https://www.figma.com/make/9YGFY78KuFcoeJoKFLPGKB/Personal-Portfolio-Website](https://www.figma.com/make/9YGFY78KuFcoeJoKFLPGKB/Personal-Portfolio-Website?t=BvOikHdYx5rsbEbK-1)
 
 ---
 
@@ -140,5 +140,8 @@ El conocimiento en herramientas de Inteligencia Artificial Generativa como compl
 
 La combinación de habilidades técnicas con enfoque en datos de talento humano es un nicho de alta demanda en Costa Rica, donde empresas como Veeam y BairesDev operan centros globales que requieren exactamente este perfil.
 
+---
+
+## Estructura del Repositorio
 
 Proyecto desarrollado como parte del curso Progra-4 – Ingeniería en Sistemas.
