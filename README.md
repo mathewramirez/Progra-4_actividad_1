@@ -3,7 +3,7 @@
 Proyecto: Actividad previa al Quiz 1 – Progra-4  
 Perfil Elegido: Data Analyst  
 Demo en vivo: [Ver sitio web](https://mathewramirez.github.io/Progra-4_actividad_1/)  
-Prototipo Figma: [Ver diseño en Figma](https://www.figma.com/make/9YGFY78KuFcoeJoKFLPGKB/Personal-Portfolio-Website?t=BvOikHdYx5rsbEbK-1)
+Prototipo Figma: [Ver diseño en Figma](https://www.figma.com/make/9YGFY78KuFcoeJoKFLPGKB/Personal-Portfolio-Website?fullscreen=1&t=ypcRWFFGdibj9tpm-1)
 
 ---
 
